@@ -1,2 +1,3 @@
 # Week-01
-Week 01 Assignment in AERSP 424
+
+AERSP 424 Fall 2024
