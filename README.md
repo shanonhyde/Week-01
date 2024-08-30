@@ -1,3 +1,3 @@
 # Week-01 Participation
 
-AERSP 424 Fall 2024
+README: AERSP 424 Fall 2024
