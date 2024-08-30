@@ -1,7 +1,7 @@
 # Week-01 Participation
 
 > [!Note]
-> Conor added his Project 2 code into this GitHub repository
+> Conor added his Project 2 code into his GitHub repository
 
 
 README: AERSP 424 Fall 2024
