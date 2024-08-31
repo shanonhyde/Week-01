@@ -5,3 +5,6 @@
 
 
 README: AERSP 424 Fall 2024
+
+> [!NOTE]
+> This is syntax for a note, hi Conor!
